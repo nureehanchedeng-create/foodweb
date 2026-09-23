@@ -9,6 +9,6 @@
 <span>The element contains tag, attribute and content </span>
   <img src="IMG_6121.jpeg " alt="Flowers" width="400" height="400"><br>
   <a href="foodorder.html">Open Food Order Page</a>
-  <a href="sendemail.html ">Testing</a>
-</body>
+  <a href="sendemail.html"> Testing</a>
+</body> 
 </html>

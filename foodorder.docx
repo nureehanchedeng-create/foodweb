@@ -104,4 +104,4 @@
           //alert(combined);
            document.getElementById('orderAndaddress').value =combined;
            const source1 = document.getElementById("orderAndaddress");
-           const sourceValue = sourc
+           const sourceValue = source
